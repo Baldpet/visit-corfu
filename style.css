@@ -1,0 +1,54 @@
+
+
+
+img{
+    margin: 0;
+    padding: 0;
+}
+
+/* -------------Header----------------- */
+
+.header-desktop{
+    height: 200px; 
+}
+
+.greek-flag{
+    background: url(assets/images/greek-flag.png);
+}
+
+.corfu-flag{
+    background: url(assets/images/corfu-flag.png);
+}
+
+.greek-flag,
+.corfu-flag {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120px;
+    width: 180px;
+    margin: auto;
+    display: block;
+    margin-top: 40px;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+    max-height: 150px;
+}
+
+.logo img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.nav{
+    margin-top: 20px;
+    justify-content: center;
+
+}
+
