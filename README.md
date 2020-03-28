@@ -37,10 +37,10 @@ During the design process there was a decision made to create the site over mult
 The reason for this was to limit the length of each page on mobile format and also to make it easy to navigate to where the client wanted to get to quickly.
 
 #### Desktop
-![Desktop-wireframes](/assets/images/visit-corfu-desktop.pdf)
+![Desktop-wireframes](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-desktop.pdf)
 
 #### Mobile
-![Mobile-wireframes](assets/images/visit-corfu-mobile.pdf)
+![Mobile-wireframes](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-mobile.pdf)
 
 ## __Features__
 
