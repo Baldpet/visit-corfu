@@ -1,35 +1,49 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+![logo](images/visit-corfu-logo.png)
 
-Welcome Baldpet,
+# __Visit Corfu__
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## __Aim of the Site__
 
-## Gitpod Reminders
+The island of Corfu is beautiful in many ways throughout most of the year.  
+I also have a personal investment to the island as it is where part of my family resides.  
+Therefore I wanted to focus the project upon it to raise its awareness and its tourism.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## __UX__
 
-`python3 -m http.server`
+The aim for the user experience of the site was to be a branch site of Greek Tourism centering on the Greek island of Corfu.  
+The idea is that it should encourage people who visit the site to ultimately look to visit Corfu Island itself and drive Tourism as a whole to Greece.
 
-A blue button should appear to click: *Make Public*,
+### __Client Stories__
 
-Another blue button should appear to click: *Open Browser*.
+### __Wireframes__
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## __Features__
 
-A blue button should appear to click: *Make Public*,
+## __Future Goals__
 
-Another blue button should appear to click: *Open Browser*.
+## __Technology Used__
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+I have listed the following languages and technology used to produce this project below:
 
-## Updates Since The Instructional Video
+* Markdown
+* HTML 5
+* CSS 3
+* Bootstrap 4
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+## __Testing__
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## __Known Issues & Resolutions__
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## __Deployment__
 
---------
+## __Credits__
 
-Happy coding!
+There were a number of sources used throughout the project which I would like to credit:
+
+* I created a logo for the site using FreeLogoDesign.org
+
+## __Acknoledgements__
+
+## __Disclaimer__
+
+This project has been made solely for educational purposes and is not for commercial use.
