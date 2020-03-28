@@ -66,6 +66,15 @@ I have listed the following languages and technology used to produce this projec
 There were a number of sources used throughout the project which I would like to credit:
 
 * I created a logo for the site using FreeLogoDesign.org
+* Pictures were sourced through https://pixabay.com
+  * Photos from the following Pixabay users:
+    * Jeff Nott
+    * Callisto Schmidt
+    * Indria Foto
+    * Erik Karits
+    * Katarzyna Tyl
+    * Ini 1978
+    * Mate Markovics 
 
 ## __Acknoledgements__
 
