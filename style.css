@@ -4,10 +4,13 @@
 img{
     margin: 0;
     padding: 0;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 /* -------------Header----------------- */
 
+/* -------------Desktop Header----------------- */
 .header-desktop{
     height: 200px; 
 }
@@ -32,18 +35,12 @@ img{
     margin-top: 40px;
 }
 
-.logo{
+.logo-desktop{
     display: block;
     margin-left: auto;
     margin-right: auto;
     height: 150px;
     width: 150px;
-    max-height: 150px;
-}
-
-.logo img{
-    max-height: 100%;
-    max-width: 100%;
 }
 
 .nav{
@@ -52,3 +49,40 @@ img{
 
 }
 
+/* -------------Mobile Header----------------- */
+
+.logo-mobile{
+    margin-left: 15%;
+    float: left;
+    display: block;
+    height: 100px;
+    width: 100px;
+}
+
+.nav-mobile{
+    float: left;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.dropdown-menu{
+    left: -50px;
+}
+
+
+/* -------------Media Queries----------------- */
+
+
+@media screen and (min-width: 0px) and (max-width: 800px){
+    .header-desktop-container{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 800px){
+    .header-mobile-container{
+        display: none;
+    }
+}
