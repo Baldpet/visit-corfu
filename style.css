@@ -75,23 +75,45 @@ img{
 
 /* -------------Hero and Into----------------- */
 
-/*.hero-image {
-    max-height: 600px;
-    object-fit:cover;
-}*/
+
+
+/* -------------Footer----------------- */
+
+.footer-style-container {
+    text-align: center;
+    padding: 5px;
+}
+
+.footer-style-container i{
+    display: block;
+    text-align: center;
+}
+
+.footer-style-container a{
+    display: inline-block;
+    text-align: center;
+    padding: 10px 20px;
+    
+}
+
+.footer-style-container .footer-travel-links{
+    display: block;
+}
+
+
 
 
 
 /* -------------Media Queries----------------- */
 
 
-@media screen and (min-width: 0px) and (max-width: 800px){
+@media screen and (min-width: 0px) and (max-width: 767px){
     .header-desktop-container{
         display: none;
     }
 }
 
-@media screen and (min-width: 800px){
+@media screen and (min-width: 768px){
     .header-mobile-container{
         display: none;
     }
