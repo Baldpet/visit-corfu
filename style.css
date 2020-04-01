@@ -8,6 +8,10 @@ img{
     max-height: 100%;
 }
 
+.uppercase{
+    text-transform: uppercase;
+}
+
 
 /* -------------Header----------------- */
 
@@ -76,6 +80,14 @@ img{
 /* -------------Hero and Into----------------- */
 
 
+/* -------------Why Visit----------------- */
+
+
+/* -------------Check out----------------- */
+
+.link-offset-1.5{
+    margin-left: 12.5%;
+}
 
 /* -------------Footer----------------- */
 
