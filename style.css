@@ -12,6 +12,27 @@ img{
     text-transform: uppercase;
 }
 
+.headline-banner{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* -------------Colors----------------- */
+
+body {
+    background-color: #e6e8eb;
+}
+
+.nav-color {
+    background-color: #d4d6d9;
+}
+
+.intro-banner-color{
+    background-color: #c9daf5;
+}
 
 /* -------------Header----------------- */
 
@@ -49,8 +70,8 @@ img{
 }
 
 .nav{
-    margin-top: 20px;
     justify-content: center;
+    height: 50px;
 
 }
 
@@ -74,6 +95,10 @@ img{
 
 .dropdown-menu{
     left: -50px;
+}
+
+.nav-mobile{
+    margin-top: 20px;
 }
 
 
