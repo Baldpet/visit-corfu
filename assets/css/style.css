@@ -13,11 +13,18 @@ img{
 }
 
 .headline-banner{
+    display: table;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+    height: 80px;
+}
+
+.headline-banner h3{
+    display: table-cell;
+    vertical-align: middle;
 }
 
 /* -------------Colors----------------- */
@@ -31,7 +38,7 @@ body {
 }
 
 .bg-color-banner-intro{
-    background-color: #c9daf5;
+    background-image: radial-gradient(orange, #e6e8eb );
 }
 
 .bg-color-footer {
@@ -43,14 +50,16 @@ body {
 }
 
 .bg-color-banner-easter {
-
+    background-color: #faa805;
 }
 
 .bg-color-banner-places {
+    background-color: #0511fa;
     
 }
 
 .bg-color-banner-summer {
+    background-color: #9e05f7;
     
 }
 
@@ -134,9 +143,18 @@ body {
 
 /* -------------Check out----------------- */
 
-.link-offset-1.5{
-    margin-left: 12.5%;
+.link-banner {
+    width: 100%;
+    text-align: center;
 }
+
+.size-image-link{
+    float: left;
+    width: 350px;
+    height: 220px;
+    background-size: cover;
+}
+
 
 /* -------------Footer----------------- */
 
