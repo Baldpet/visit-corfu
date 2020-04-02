@@ -26,8 +26,32 @@ body {
     background-color: #e6e8eb;
 }
 
+.bg-color-header {
+    background-color: #b8b8b8;
+}
+
 .bg-color-banner-intro{
     background-color: #c9daf5;
+}
+
+.bg-color-footer {
+    background-color: #b8b8b8;
+}
+
+.bg-color-why-visit {
+    background-color: red;
+}
+
+.bg-color-banner-easter {
+
+}
+
+.bg-color-banner-places {
+    
+}
+
+.bg-color-banner-summer {
+    
 }
 
 /* -------------Header----------------- */
