@@ -26,11 +26,7 @@ body {
     background-color: #e6e8eb;
 }
 
-.nav-color {
-    background-color: #d4d6d9;
-}
-
-.intro-banner-color{
+.bg-color-banner-intro{
     background-color: #c9daf5;
 }
 
@@ -42,11 +38,11 @@ body {
 }
 
 .greek-flag{
-    background: url(assets/images/greek-flag.png);
+    background: url(../images/greek-flag.png);
 }
 
 .corfu-flag{
-    background: url(assets/images/corfu-flag.png);
+    background: url(../images/corfu-flag.png);
 }
 
 .greek-flag,
@@ -72,7 +68,11 @@ body {
 .nav{
     justify-content: center;
     height: 50px;
+    width: 100%;
+}
 
+.navbar {
+    padding: 0;
 }
 
 /* -------------Mobile Header----------------- */
