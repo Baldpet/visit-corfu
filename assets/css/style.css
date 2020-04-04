@@ -34,6 +34,10 @@ h5 {
     font-family: 'exo 2', sans-serif;
 }
 
+p {
+    font-family: 'Roboto Slab', serif;
+}
+
 /* -------------Colors----------------- */
 
 body {
@@ -53,7 +57,7 @@ body {
 }
 
 .bg-color-why-visit {
-    background-color: red;
+    background-color: white;
 }
 
 .bg-color-banner-easter {
@@ -157,11 +161,15 @@ body {
     padding: 0;
 }
 
-.jumbotron p {
-    font-family: 'Roboto Slab', serif;
+/* -------------Why Visit----------------- */
+
+.list-why-visit{
+    text-align: center;
 }
 
-/* -------------Why Visit----------------- */
+.list-why-visit li{
+    margin: 10px 0 15px 0;
+}
 
 
 /* -------------Check out----------------- */
