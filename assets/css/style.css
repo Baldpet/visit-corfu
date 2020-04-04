@@ -38,6 +38,50 @@ p {
     font-family: 'Roboto Slab', serif;
 }
 
+/* -------------Hover CSS----------------- */
+
+ .hvr-radial-out {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  position: relative;
+  overflow: hidden;
+  background: #b8b8b8;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.7s;
+  transition-duration: 0.7s;
+}
+
+.hvr-radial-out:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #2098D1;
+  border-radius: 100%;
+  -webkit-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.7s;
+  transition-duration: 0.7s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-radial-out:hover, .hvr-radial-out:focus, .hvr-radial-out:active {
+  color: #b8b8b8;
+}
+.hvr-radial-out:hover:before, .hvr-radial-out:focus:before, .hvr-radial-out:active:before {
+  -webkit-transform: scale(2);
+  transform: scale(2);
+}
+
 /* -------------Colors----------------- */
 
 body {
@@ -74,15 +118,55 @@ body {
     
 }
 
+/* -------------Dealing with Hover Colors----------------- */
+
+.nav-pills .nav-link:hover, .nav-pills .nav-link:focus {
+    background-color: #b8b8b8;
+    border: none;
+}
+
+.nav-color-home .nav-link.active{
+    background-color: purple;
+    border: none;
+}
+
+.nav-color-easter .nav-link.active{
+    background-color: #2098D1;
+    border: none;
+}
+
+.nav-color-places .nav-link.active{
+    background-color: #2098D1;
+    border: none;
+}
+
+.nav-color-summer .nav-link.active{
+    background-color: #2098D1;
+    border: none;
+}
+
+.nav-color-contact .nav-link.active{
+    background-color: #2098D1;
+    border: none;
+}
+
+
+
+
 /* -------------Header----------------- */
 
 .nav {
     font-family: 'Exo 2', sans-serif;
-    font-size: 25px;
 }
 
 .navbar .nav-link {
-    font-size: 15px;
+    font-size: 18px;
+    color: white;
+}
+
+.navbar .nav-link.active{
+    font-size: 18px;
+    color: white;
 }
 
 /* -------------Desktop Header----------------- */
