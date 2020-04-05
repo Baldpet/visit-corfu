@@ -112,6 +112,10 @@ h3 {
     background-image: radial-gradient(#ff4500, #dadada );
 }
 
+.banner .bg-color-banner-contact{
+    background-image: radial-gradient(#ffd700, #dadada );
+}
+
 .bg-color-why-visit {
     background-color: white;
 }
@@ -127,6 +131,10 @@ h3 {
 
 .bg-color-banner-summer {
     background-color: #ff4500;  
+}
+
+.bg-color-banner-contact {
+    background-color: #ffd700;  
 }
 
 .bg-color-footer {
