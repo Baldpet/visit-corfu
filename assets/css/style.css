@@ -291,6 +291,10 @@ h3 {
     padding: 5px;
 }
 
+.footer-style-container h4 {
+    color: #000000;
+}
+
 .footer-style-container i{
     display: block;
     text-align: center;
