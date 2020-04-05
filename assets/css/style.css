@@ -173,15 +173,16 @@ h3 {
 
 .nav {
     font-family: 'Exo 2', sans-serif;
+    overflow: hidden;
 }
 
 .navbar .nav-link {
-    font-size: 18px;
+    font-size: 16px;
     color: #000000;
 }
 
 .navbar .nav-link.active{
-    font-size: 18px;
+    font-size: 16px;
     color: #000000;
 }
 
