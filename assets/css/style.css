@@ -104,6 +104,14 @@ h3 {
     background-image: radial-gradient(#e000e0, #dadada );
 }
 
+.banner .bg-color-banner-places{
+    background-image: radial-gradient(#00aa00, #dadada );
+}
+
+.banner .bg-color-banner-summer{
+    background-image: radial-gradient(#ff4500, #dadada );
+}
+
 .bg-color-why-visit {
     background-color: white;
 }
@@ -173,7 +181,7 @@ h3 {
 
 .nav {
     font-family: 'Exo 2', sans-serif;
-    overflow: hidden;
+    
 }
 
 .navbar .nav-link {
@@ -357,13 +365,13 @@ h3 {
 /* -------------Media Queries----------------- */
 
 
-@media screen and (min-width: 0px) and (max-width: 767px){
+@media screen and (min-width: 0px) and (max-width: 990px){
     .header-desktop-container{
         display: none;
     }
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 990px){
     .header-mobile-container{
         display: none;
     }
