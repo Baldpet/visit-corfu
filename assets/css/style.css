@@ -100,7 +100,7 @@ h3 {
     background-image: radial-gradient(#f62459, #dadada );
 }
 
-.bg-color-banner-easter{
+.banner .bg-color-banner-easter{
     background-image: radial-gradient(#e000e0, #dadada );
 }
 
@@ -306,7 +306,7 @@ h3 {
     margin: auto;
     font-size: 18px;
     font-family: 'exo 2', sans-serif;
-    border: 1px;
+    border: 2px;
     border-style: solid;
     border-radius: 10%;
 }
