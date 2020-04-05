@@ -88,12 +88,16 @@ body {
     background-color: #dadada;
 }
 
+h3 {
+    color:#000000;
+}
+
 .bg-color-header {
     background-color: #bfbfbf;
 }
 
 .bg-color-banner-intro{
-    background-image: radial-gradient(orange, #dadada );
+    background-image: radial-gradient(#f62459, #dadada );
 }
 
 
@@ -103,16 +107,16 @@ body {
 }
 
 .bg-color-banner-easter {
-    background-color: #faa805;
+    background-color: #e000e0;
 }
 
 .bg-color-banner-places {
-    background-color: #0511fa;
+    background-color: #00aa00;
     
 }
 
 .bg-color-banner-summer {
-    background-color: #9e05f7;  
+    background-color: #ff4500;  
 }
 
 .bg-color-footer {
@@ -131,27 +135,27 @@ body {
 }
 
 .nav-color-home .nav-link.active{
-    background-color: #ff8c00;
+    background-color: #f62459;
     border: none;
 }
 
 .nav-color-easter .nav-link.active{
-    background-color: #2098D1;
+    background-color: #e000e0;
     border: none;
 }
 
 .nav-color-places .nav-link.active{
-    background-color: #2098D1;
+    background-color: #00aa00;
     border: none;
 }
 
 .nav-color-summer .nav-link.active{
-    background-color: #2098D1;
+    background-color: #ff4500;
     border: none;
 }
 
 .nav-color-contact .nav-link.active{
-    background-color: #2098D1;
+    background-color: #ffd700;
     border: none;
 }
 
