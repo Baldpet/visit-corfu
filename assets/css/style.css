@@ -298,6 +298,18 @@ h3 {
 
 /* -------------Contact us info----------------- */
 
+.style-contact-info {
+    margin-bottom: 10px;
+}
+
+.style-contact-info a {
+    margin: auto;
+    font-size: 18px;
+    font-family: 'exo 2', sans-serif;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10%;
+}
 /* -------------Footer----------------- */
 
 .footer-style-container {
