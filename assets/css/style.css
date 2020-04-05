@@ -100,7 +100,9 @@ h3 {
     background-image: radial-gradient(#f62459, #dadada );
 }
 
-
+.bg-color-banner-easter{
+    background-image: radial-gradient(#e000e0, #dadada );
+}
 
 .bg-color-why-visit {
     background-color: white;
@@ -125,6 +127,11 @@ h3 {
 
 .bg-color-footer a{
     color: #0000e0;
+}
+
+.btn-color-contact-us {
+    background-color: #ffd700;
+    color: #000000;
 }
 
 /* -------------Dealing with Hover Colors----------------- */
@@ -247,6 +254,7 @@ h3 {
     margin-top: 20px;
 }
 
+/* ------------------------------------------Intro Page-------------------------------------- */
 
 /* -------------Hero and Into----------------- */
 
@@ -283,6 +291,12 @@ h3 {
     background-size: cover;
 }
 
+/* ------------------------------------------Easter Page-------------------------------------- */
+
+/* -------------Info & Pictures----------------- */
+
+
+/* -------------Contact us info----------------- */
 
 /* -------------Footer----------------- */
 
