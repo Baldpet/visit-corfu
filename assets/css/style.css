@@ -330,6 +330,16 @@ h3 {
     background-size: cover;
 }
 
+.grow-image-link {
+    transition: all 0.3s ease;
+}
+
+.grow-image-link:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
 /* ------------------------------------------Easter/Summer/Places Page-------------------------------------- */
 
 /* -------------Info & Pictures----------------- */
