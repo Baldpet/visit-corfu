@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@600&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@500,600,700&family=Roboto+Slab&display=swap');
 
 img{
     margin: 0;
@@ -24,6 +24,7 @@ img{
 .headline-banner h3{
     display: table-cell;
     vertical-align: middle;
+    font-weight: 600;
 }
 
 h1,
@@ -281,6 +282,15 @@ h3 {
     padding: 0;
 }
 
+.jumbotron h1 {
+    margin-bottom: 25px;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.jumbotron p{
+    font-size: 16px;
+}
 /* -------------Why Visit----------------- */
 
 .list-why-visit{
