@@ -158,27 +158,27 @@ h3 {
 }
 
 .nav-color-home .nav-link.active{
-    background-color: #f62459;
+    background-color: #738be9;
     border: none;
 }
 
 .nav-color-easter .nav-link.active{
-    background-color: #e000e0;
+    background-color: #738be9;
     border: none;
 }
 
 .nav-color-places .nav-link.active{
-    background-color: #00aa00;
+    background-color: #738be9;
     border: none;
 }
 
 .nav-color-summer .nav-link.active{
-    background-color: #ff4500;
+    background-color: #738be9;
     border: none;
 }
 
 .nav-color-contact .nav-link.active{
-    background-color: #ffd700;
+    background-color: #738be9;
     border: none;
 }
 
@@ -296,7 +296,7 @@ h3 {
     display: inline-block;
     width: 100%;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 25px;
     color: white;
 }
 
