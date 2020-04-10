@@ -430,6 +430,18 @@ h3 {
     text-decoration-color: #e000e0;
 }
 
+/* ------------------------------------------Summer Page-------------------------------------- */
+
+.color-underline-summer h4{
+    text-decoration-color: #ff4500 ;
+}
+
+/* ------------------------------------------Places Page-------------------------------------- */
+
+.color-underline-places h4{
+    text-decoration-color: #00aa00;
+}
+
 /* ------------------------------------------Contact Us Page-------------------------------------- */
 
 .form-size-style{
