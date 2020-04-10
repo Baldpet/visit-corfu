@@ -352,6 +352,15 @@ h3 {
 
 /* -------------Info & Pictures----------------- */
 
+.style-info-blocks {
+    color: #000000;
+    text-align: center;
+}
+
+.style-info-blocks p{
+    font-size: 16px;
+    text-align: left;
+}
 
 /* -------------Contact us info----------------- */
 
