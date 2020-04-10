@@ -341,7 +341,7 @@ h3 {
     transform: scale(1.1);
 }
 
-/* ------------------------------------------Easter/Summer/Places Page-------------------------------------- */
+/* ------------------------------------------Easter/Summer/Places Pages General-------------------------------------- */
 
 /* -------------Info & Pictures----------------- */
 
@@ -349,7 +349,7 @@ h3 {
 /* -------------Contact us info----------------- */
 
 .style-contact-info {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 .style-contact-info a {
@@ -359,6 +359,21 @@ h3 {
     border: 2px;
     border-style: solid;
     border-radius: 10%;
+}
+
+/* ------------------------------------------Easter Page-------------------------------------- */
+
+.table thead th{
+    border-color: #e000e0;
+    border-top: none;
+}
+
+.table th {
+    border-color: #e000e0;
+}
+
+.table td {
+    border-color: #e000e0;
 }
 
 /* ------------------------------------------Contact Us Page-------------------------------------- */
