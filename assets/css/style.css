@@ -488,13 +488,13 @@ h3 {
 /* -------------Media Queries----------------- */
 
 
-@media screen and (min-width: 0px) and (max-width: 990px){
+@media screen and (min-width: 0px) and (max-width: 1048px){
     .header-desktop-container{
         display: none;
     }
 }
 
-@media screen and (min-width: 990px){
+@media screen and (min-width: 1049px){
     .header-mobile-container{
         display: none;
     }
