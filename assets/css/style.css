@@ -362,6 +362,7 @@ h3 {
     text-align: left;
 }
 
+
 /* -------------Contact us info----------------- */
 
 .style-contact-info {
@@ -497,4 +498,20 @@ h3 {
     .header-mobile-container{
         display: none;
     }
+}
+
+@media screen and (min-width: 990px){
+    .style-info-img {
+        position: relative;
+    }
+
+    .style-info-img img{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
 }
