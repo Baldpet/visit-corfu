@@ -350,10 +350,19 @@ h3 {
 
 .style-contact-info {
     margin-bottom: 30px;
+    text-align: center;
+}
+
+.style-contact-info p{
+    font-size: 16px;
+    color: #000000;
+}
+
+.style-contact-info h3 {
+    color:#000000;
 }
 
 .style-contact-info a {
-    margin: auto;
     font-size: 18px;
     font-family: 'exo 2', sans-serif;
     border: 2px;
@@ -362,6 +371,10 @@ h3 {
 }
 
 /* ------------------------------------------Easter Page-------------------------------------- */
+
+.table {
+    margin-bottom: 30px;
+}
 
 .table thead th{
     border-color: #e000e0;
@@ -374,6 +387,11 @@ h3 {
 
 .table td {
     border-color: #e000e0;
+    color: #000000;
+}
+
+.table tr span {
+    display: block;
 }
 
 /* ------------------------------------------Contact Us Page-------------------------------------- */
