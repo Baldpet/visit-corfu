@@ -127,6 +127,7 @@ h3 {
     background-color: #e000e0;
 }
 
+
 .bg-color-banner-places {
     background-color: #00aa00;
     
@@ -360,6 +361,14 @@ h3 {
 .style-info-blocks p{
     font-size: 16px;
     text-align: left;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.style-info-blocks h4 {
+    margin-top: 25px;
+    text-decoration: underline;
+    
 }
 
 
@@ -377,8 +386,10 @@ h3 {
     margin: auto;
 }
 
-.style-contact-info h3 {
+.style-contact-info h4 {
     color:#000000;
+    text-decoration: underline;
+    margin-bottom: 15px;
 }
 
 .style-contact-info a {
@@ -387,6 +398,7 @@ h3 {
     border: 2px;
     border-style: solid;
     border-radius: 10%;
+    margin-top: 30px;
 }
 
 /* ------------------------------------------Easter Page-------------------------------------- */
@@ -411,6 +423,11 @@ h3 {
 
 .table tr span {
     display: block;
+}
+
+
+.color-underline-easter h4{
+    text-decoration-color: #e000e0;
 }
 
 /* ------------------------------------------Contact Us Page-------------------------------------- */
