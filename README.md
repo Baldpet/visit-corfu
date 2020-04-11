@@ -79,6 +79,22 @@ The reason for this was to limit the length of each page on mobile format and al
 
 ## __Future Goals__
 
+There are quite a few additional features that would have been useful for the users of the site that could be implemented at a future date.
+
+* Places to Stay
+The idea of the site is to encourage users to visit Corfu, if the users of the site decide to book a holiday one of the next things to look at would be accomodation and where to stay.  
+
+* Organised Trips
+Users of the site will not only want information on where to visit but also have trips available for them to book through on the site itself.
+
+* Useable Map
+The users may want to be able to see where the places to visit are on the Island to plan their vacation and how they are to get to places.
+
+* Online Booking
+Instead of the contact form as it is at the moment, it would be good for the users to be able to book trips or tickets through the website automatically without a pack having to be sent.  
+This would also be a lot more efficient for the Visit Corfu workforce as they will not have to respond to each user seperately.
+
+
 ## __Technology Used__
 
 I have listed the following languages and technology used to produce this project below:
