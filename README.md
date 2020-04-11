@@ -1,5 +1,5 @@
 ![logo](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-logo.png)
-
+[![homepage][https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-logo.png]][https://baldpet.github.io/visit-corfu/]
 # __Visit Corfu__
 
 ## __Aim of the Site__
