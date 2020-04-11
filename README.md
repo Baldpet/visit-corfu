@@ -37,10 +37,26 @@ During the design process there was a decision made to create the site over mult
 The reason for this was to limit the length of each page on mobile format and also to make it easy to navigate to where the client wanted to get to quickly.
 
 #### Desktop
-![Desktop-wireframes](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-desktop.pdf)
+![Index Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/index-desktop.png)
+
+![Easter Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/easter-desktop.png)
+
+![Places Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/places-desktop.png)
+
+![Summer Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/summer-desktop.png)
+
+![Contact Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/contact-desktop.png)
 
 #### Mobile
-![Mobile-wireframes](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-mobile.pdf)
+![Index Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/index-mobile.png)
+
+![Easter Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/easter-mobile.png)
+
+![Places Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/places-mobile.png)
+
+![Summer Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/summer-mobile.png)
+
+![Contact Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/contact-mobile.png)
 
 ## __Features__
 
