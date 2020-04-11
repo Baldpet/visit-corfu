@@ -84,6 +84,14 @@ I have listed the following languages and technology used to produce this projec
 
 ## __Known Issues & Resolutions__
 
+* Internet Explorer 11
+    * Instagram icon not showing in the footer - only shows the color scheme.
+    * Underlined color styles in the Summer, Easter and Places pages are not showing.
+* Microsoft Edge
+    * Underlined color styles in the Summer, Easter and Places pages are not showing.
+* Firefox
+    * No issues detected    
+
 ## __Deployment__
 
 ## __Credits__
@@ -102,8 +110,14 @@ There were a number of sources used throughout the project which I would like to
     * Ini 1978
     * Mate Markovics 
 
-
 ## __Acknoledgements__
+
+I received inspiration for the project from my family some of which live in Corfu.
+Their continued support and help allowed me to complete the project.
+
+I would also like to acknoledge my mentor Anthony Ngene who has helped me out on some key points for where the project should be heading. 
+
+Lastly I would like to acknoledge my fiancee who has helped with the structure and the testing.
 
 ## __Disclaimer__
 
