@@ -60,6 +60,23 @@ The reason for this was to limit the length of each page on mobile format and al
 
 ## __Features__
 
+* Feature 1 - Introduction information - This allows the user to get a feel of Corfu Town and Island by reading through the introduction and bullet points on why to visit.
+
+* Feature 2 - Picture Links - These allow the user to go to the relevant information for them specifically without needing to scroll through irrelevant information.
+
+* Feature 3 - Easter Info - This allows the user who is interested in travelling to Corfu for the Easter to read up on the information on what is happening on certain days.
+
+* Feature 4 - Easter dates - This allows the user to easily find the dates of Orthodox Easter for the next three years so that they can book their holiday appropriately.
+
+* Feature 5 - Places to Visit - This page provides some information on places on interest on the Island that the user can use to plan their trips whilst in Corfu.
+
+* Feature 6 - Summer information - The user can use this page to get some additional information on Corfu at the summertime and why it would be good to visit.
+
+* Feature 7 - Summer climate - The user can easily see the temperature/rain and sunlight averages for each month between April and October so that they can book the trip according to their preferences.
+
+* Feature 8 - Contact Form - If the user is interested in any additional information they can contact the site by submitting the form to get an information pack sent to them via email.
+
+
 ## __Future Goals__
 
 ## __Technology Used__
@@ -90,9 +107,25 @@ I have listed the following languages and technology used to produce this projec
 * Microsoft Edge
     * Underlined color styles in the Summer, Easter and Places pages are not showing.
 * Firefox
+    * No issues detected
+* Chrome
     * No issues detected    
 
 ## __Deployment__
+
+There were a number of steps taken to deploy the website onto GitHub Pages.
+
+1. The code was written on an online IDE - Gitpod.
+2. The code was then pushed to GitHub where it is stored on a public repository.
+3. Under the settings section of the GitHub repository there is a sub-heading of GitHub Pages.
+4. In this section the master brach of the project has been selected.
+5. Then the publish to GitHub Pages button was pressed to publish the site onto Github Pages.
+
+There is no difference between the deployed version and the development version.
+
+The code can be run locally through clone or download.  
+By opening the repository and and being in the main 'code' section there is a button 'clone or download'.  
+This button will provide a link that you can use on your desktop or download as a ZIP file.
 
 ## __Credits__
 
