@@ -77,6 +77,8 @@ I have listed the following languages and technology used to produce this projec
     * Used for the forms and tables included within the webpages.
 * Bootstap 4/Javascript
     * Used on the mobile header to incorporate a dropdown.
+* Hover.css
+    * Used this to create the hover animation on the desktop navigation bar.
 
 ## __Testing__
 
@@ -89,6 +91,7 @@ I have listed the following languages and technology used to produce this projec
 There were a number of sources used throughout the project which I would like to credit:
 
 * I created a logo for the site using FreeLogoDesign.org
+
 * Pictures were sourced through https://pixabay.com
   * Photos from the following Pixabay users:
     * Jeff Nott
@@ -98,6 +101,7 @@ There were a number of sources used throughout the project which I would like to
     * Katarzyna Tyl
     * Ini 1978
     * Mate Markovics 
+
 
 ## __Acknoledgements__
 
