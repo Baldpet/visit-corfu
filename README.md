@@ -36,7 +36,7 @@ To begin the planning of how the site would look I put together a series of wire
 During the design process there was a decision made to create the site over multiple pages rather than a scrolling one page site.  
 The reason for this was to limit the length of each page on mobile format and also to make it easy to navigate to where the client wanted to get to quickly.
 
-#### Desktop
+#### Desktop Wireframes
 ![Index Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/index-desktop.png)
 
 ![Easter Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/easter-desktop.png)
@@ -47,7 +47,7 @@ The reason for this was to limit the length of each page on mobile format and al
 
 ![Contact Page-Desktop](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/contact-desktop.png)
 
-#### Mobile
+#### Mobile Wireframes
 ![Index Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/index-mobile.png)
 
 ![Easter Page - Mobile](https://github.com/Baldpet/visit-corfu/blob/master/assets/wireframes/easter-mobile.png)
@@ -67,9 +67,16 @@ The reason for this was to limit the length of each page on mobile format and al
 I have listed the following languages and technology used to produce this project below:
 
 * Markdown
+    * For the ReadMe file
 * HTML 5
+    * For the base information and structure of the webpages
 * CSS 3
+    * For the styling and beauty of the webpages
 * Bootstrap 4
+    * Was used as a base for the structure using the grid system.
+    * Used for the forms and tables included within the webpages.
+* Bootstap 4/Javascript
+    * Used on the mobile header to incorporate a dropdown.
 
 ## __Testing__
 
