@@ -119,6 +119,52 @@ I have listed the following languages and technology used to produce this projec
 
 ## __Testing__
 
+### Validation
+
+The HTML code for each page has been validated on the W3C HTML Validation tool.
+
+The CCS code has been validated on the W3C CSS Validation tool.
+
+### Screen Sizes
+
+There was testing throughout the project to make sure that the project looks good and works on multiple screen sizes and devices.  
+This was done through the Chrome developer tools by reducing the width of the screen and also utilising their mobile device view.
+
+Whilst completing the screen size tests I noticed that the navigation bar was too wide to fit on screen sizes bigger than just traditional mobile devices.  
+Therefore the 'mobile device' navigation bar which does not have the flags and has dropdown bar instead was extended to make sure that no buttons were lost.
+
+### Site Links
+
+I have fully tested all the links on the site to make sure that they go through to the correct page.  
+I have also made sure that any which are linked to outside sites open in a new window.  
+The submit button has also be teasted although does not lead to anything as there is no server set up behind the scenes.
+
+### Contact Form
+
+The contact form has been tested to make sure the required fields are prompting the user that information is required.  
+
+Currently the form should require at least one tick in a the checkbox part of the form, however I cannot find without using Javascript a way to make this happen.
+
+### Deployment Test
+
+The website was tested on deployment through the GitHub Pages and a bug occurred where the CSS file was not being found even though it was on the IDE.  
+
+The reason being that the file path had '../' before the assets and it was not picking route on deployment.  
+This was fixed by removing the '../' from the file path and it is now working correctly.
+
+### Multiple Browsers
+
+I have undertaken some tests on other popular browsers to see if there are any bugs that I have picked up.  
+The website has loaded on all browsers and devices tested which are shown:  
+
+    * Interenet Explorer  
+    * Microsoft Edge
+    * Firefox
+    * Chrome
+    * Mobile (Android)
+
+The bugs that were encountered have been noted below in the Known Issues section.
+
 ## __Known Issues & Resolutions__
 
 * Internet Explorer 11
@@ -129,7 +175,9 @@ I have listed the following languages and technology used to produce this projec
 * Firefox
     * No issues detected
 * Chrome
-    * No issues detected    
+    * No issues detected
+* Mobile (Android)
+    * No issues detected       
 
 ## __Deployment__
 
