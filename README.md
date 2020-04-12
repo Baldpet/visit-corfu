@@ -125,7 +125,7 @@ I have listed the following languages and technology used to produce this projec
 The HTML code for each page has been validated on the W3C HTML Validation tool, with no issues.
 
 The CCS code has been validated on the W3C CSS Validation tool, there is an error with the color for the Instagram logo.  
-I have noted this is causing an issue on the Internet Explorer browser in the known issues section. Unfortunately I was not able to work around this issue.
+I have noted this is causing an issue on the Internet Explorer browser which has been detailed in the known issues section. Unfortunately I was not able to work around this issue.
 
 ### Screen Sizes
 
