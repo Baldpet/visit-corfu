@@ -122,9 +122,10 @@ I have listed the following languages and technology used to produce this projec
 
 ### Validation
 
-The HTML code for each page has been validated on the W3C HTML Validation tool.
+The HTML code for each page has been validated on the W3C HTML Validation tool, with no issues.
 
-The CCS code has been validated on the W3C CSS Validation tool.
+The CCS code has been validated on the W3C CSS Validation tool, there is an error with the color for the Instagram logo.  
+I have noted this is causing an issue on the Internet Explorer browser in the known issues section. Unfortunately I was not able to work around this issue.
 
 ### Screen Sizes
 
@@ -166,6 +167,14 @@ The website has loaded on all browsers and devices tested which are shown:
 
 The bugs that were encountered have been noted below in the Known Issues section.
 
+### Feedback
+
+Following feedback from friends and family I adjusted the font size from 16px to a larger font size of 18px for paragraph sections across the site.  
+The feedback was stated that on the desktop version of the site it was not easy to read.
+
+Additional feedback from friends and family said that the original intro page colors were interpretted as a warning or danger color.  
+Therefore, I adjusted this color to a friendlier color.
+
 ## __Known Issues & Resolutions__
 
 * Internet Explorer 11
@@ -178,7 +187,7 @@ The bugs that were encountered have been noted below in the Known Issues section
 * Chrome
     * No issues detected
 * Mobile (Android)
-    * No issues detected       
+    * No issues detected    
 
 ## __Deployment__
 
