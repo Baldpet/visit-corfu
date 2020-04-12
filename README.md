@@ -1,5 +1,5 @@
-![logo](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-logo.png)
 [![homepage](https://github.com/Baldpet/visit-corfu/blob/master/assets/images/visit-corfu-logo.png)](https://baldpet.github.io/visit-corfu/)
+
 # __Visit Corfu__
 
 ## __Aim of the Site__
@@ -8,6 +8,7 @@ The island of Corfu is beautiful in many ways throughout most of the year.
 I also have a personal investment to the island as it is where part of my family resides.  
 Therefore I wanted to focus the project upon it to raise its awareness and its tourism.
 
+Please click the following link to the live website: https://baldpet.github.io/visit-corfu/
 ## __UX__
 
 The aim for the user experience of the site was to be a branch site of Greek Tourism centering on the Greek island of Corfu.  
