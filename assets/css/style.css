@@ -285,6 +285,7 @@ h3 {
 
 .jumbotron {
     text-align: center;
+    border-radius: 0px 0px 15px 15px;
 }
 
 .jumbotron h1 {
@@ -334,6 +335,7 @@ h3 {
     text-align: center;
     margin-bottom: 25px;
     color: white;
+    border-radius: 0px 0px 15px 15px;
 }
 
 .size-image-link{
@@ -342,6 +344,7 @@ h3 {
     width: 100%;
     height: 220px;
     background-size: cover;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .grow-image-link {
