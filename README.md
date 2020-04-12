@@ -139,7 +139,7 @@ Therefore the 'mobile device' navigation bar which does not have the flags and h
 
 I have fully tested all the links on the site to make sure that they go through to the correct page.  
 I have also made sure that any which are linked to outside sites open in a new window.  
-The submit button has also be teasted although does not lead to anything as there is no server set up behind the scenes.
+The submit button has also be tested although does not lead to anything as there is no server set up behind the scenes.
 
 ### Contact Form
 
